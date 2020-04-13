@@ -1,0 +1,132 @@
+
+body{
+    box-sizing: border-box;
+    max-width: 480px;
+    min-width: 320px;
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-image: url("birthday-cake-380178_1280.webp");
+    height: 550px;
+    width: 480px;
+    background-size: cover;
+}
+header p{
+    padding-top: 200px ;
+    margin: 0 10px 0px 10px ;
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+.main{
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 20px;
+    height: 900px;
+    width: 480px;
+}
+.main img{
+    margin-top: 1px;
+    margin-right: 0px;
+    border: 1px solid white;
+    border-style: solid;
+    border-radius: 20px;
+    width: 480px;
+    height: 600px;
+    margin-bottom: 4px;
+}
+.main2 {
+    border-style: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgba(253, 16, 162, 0.945);;
+    margin-bottom: 100px;
+    height: 600px;
+    width: 480px;
+}
+.main2 p{
+    width: 400px;
+    margin-left: 25px;
+    color: white;
+    font-size: 20px;
+}
+.main h2{
+    margin-left: 25px;
+    font-weight: bolder;
+    font-size: 45px;
+}
+.main3{
+    margin-top: 320px;
+    background-image: url("b3753abb17b3366b6b0698570741642d.gif");
+    background-repeat: no-repeat;
+    background-size: 250%;
+    height: 300px;
+    width: 480px;
+    color:white;
+    font-weight: bolder;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main3 h3{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 19px;
+    margin: 0;
+    color: black;
+}
+.main4{
+    height: 650px;
+    width: 480px;
+
+}
+.main4 img{
+    margin-left: 30px;
+    margin-top: 0px;
+    background-color: black;
+    width: 425px;
+    height: 430px;
+    margin-bottom: 10px;
+}
+.main5 {
+    margin-left: 1000px;
+    height: 600px;
+    width: 480px;
+    background-color: rgba(253, 16, 162, 0.945);
+    margin-bottom: 10px;
+}
+.main5 p{
+    padding: 20px;
+    line-height: 30px;
+    letter-spacing: 5px;
+    width: 430px;
+    margin-left: 20px;
+    color: white;
+    font-size: 18px;
+}
+.main5 h2{
+    padding: 20px;
+    line-height: 30px;
+    letter-spacing: 5px;
+    width: 430px;
+    margin-left: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+footer{
+    margin-top: 400px;
+    background-color: black;
+    color: white;
+    height: 70px;
+    padding: 10px;
+    width: 480px;
+   
+}
+footer p{
+    text-align: center;
+    margin-left: 10p;
+    line-height: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
